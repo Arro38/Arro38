@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">😃 Ravi de vous voir ici !</h2>
+<h2 align="left">Ravi de vous voir ici 😃 !</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">🚶 A propos de moi</h2>
+<h2 align="left">A propos de moi</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">🛠  Ma Stack</h2>
+<h2 align="left">Ma Stack</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">ℹ️  Github Info</h2>
+<h2 align="left">Github Info</h2>
 
 ###
 
