@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">Ravi de vous voir ici !</h2>
+<h2 align="left">😃 Ravi de vous voir ici !</h2>
 
 ###
 
@@ -27,20 +27,20 @@
 
 ###
 
-<h2 align="left">A propos de moi</h2>
+<h2 align="left">🚶 A propos de moi</h2>
 
 ###
 
-<p align="left">🚀  Je crée un projet par mois.<br>📚 Je lis actuellement "En route vers Symfony".<br>🎯 Freelance / CDI : disponible en tant que développeur sénior Symfony/ReactJS<br>📝  Voir mes derniers projets sur mon <a href="https://coding974.com">site</a>.</p>
+<p align="left">🚀  Je crée un projet par mois.<br>📚 Je lis actuellement "En route vers Symfony".<br>🎯 Freelance / CDI : disponible en tant que développeur sénior Symfony/ReactJS.<br>🌐  Voir mes derniers projets sur mon <a href="https://coding974.com">site</a>.</p>
 
 ###
 
-<h2 align="left">Ma Stack</h2>
+<h2 align="left">🛠  Ma Stack</h2>
 
 ###
 
 <details>	
-  <summary><b>Langages de programmation</b></summary>
+  <summary><b>📜 Langages de programmation</b></summary>
   
   ###
 
@@ -55,7 +55,7 @@
 
 
 <details>	
-  <summary><b>Back-End</b></summary>
+  <summary><b>🪒 Back-End</b></summary>
 
 ###
 
@@ -67,7 +67,7 @@
 ###
 
 <details>	
-  <summary><b>Front-End</b></summary>
+  <summary><b>✨ Front-End</b></summary>
   
 ###
 
@@ -81,7 +81,7 @@
 ###
 
 <details>	
-  <summary><b>Base de données</b></summary>
+  <summary><b>💾 Base de données</b></summary>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">Github Info</h2>
+<h2 align="left">ℹ️  Github Info</h2>
 
 ###
 
