@@ -50,10 +50,9 @@
 
 <p align="left">
   <ul>
-    <li><a href="https://react-presta.formaterz.fr/" target="_blank">Presta</a> - Une application web utilisant AdonisJS et ReactJS.</li>
+    <li><a>Presta</a> - Une application web utilisant AdonisJS et ReactJS.</li>
     <li><a href="https://next-instawish.vercel.app/" target="_blank">InstaWish</a> - Un clone d'Instagram développée avec Symfony 7 et NextJS 14.</li>
-    <li><a href="https://manzer.formaterz.fr/" target="_blank">Manzer</a> - Une solution de gestion de repas utilisant Laravel et ReactJS.</li>
-    <li><a href="https://symfony-ladylafe.formaterz.fr/" target="_blank">Lady Lafé</a> - Un blog développé avec Symfony 7.</li>
+    <li><a href="https://react-manzer.coding974.com/" target="_blank">Manzer</a> - Une solution de gestion de repas utilisant Laravel et ReactJS.</li>
   </ul>
 </p>
 
