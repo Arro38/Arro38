@@ -50,9 +50,10 @@
 
 <p align="left">
   <ul>
-    <li><a>Presta</a> - Une application web utilisant AdonisJS et ReactJS.</li>
+    <li><a href="https://stampify.coding974.com/" target="_blank">Stampify</a> Symfony - Générateur de tampon d’entreprise. </li>
+    <li><a href="https://banner.coding974.com/welcome">Générateur de bannières LinkedIn</a> - Symfony 7.3 + Tailwind CSS + DaisyUi + Hostinger</li>
+    <li><a href="https://creacademy.re/">Cré Academy</a> - WordPress + Thème + Modules personnalisés </li>
     <li><a href="https://next-instawish.vercel.app/" target="_blank">InstaWish</a> - Un clone d'Instagram développée avec Symfony 7 et NextJS 14.</li>
-    <li><a href="https://react-manzer.coding974.com/" target="_blank">Manzer</a> - Une solution de gestion de repas utilisant Laravel et ReactJS.</li>
   </ul>
 </p>
 
