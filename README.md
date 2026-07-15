@@ -1,25 +1,25 @@
 # Etienne Vaytilingom
 
-Architecte Symfony et lead tech freelance, basé à La Réunion — 10 ans sur PHP et Symfony.
+Freelance Symfony architect and lead tech, based in Réunion — 10 years on PHP and Symfony.
 
-J'interviens sur des plateformes métier critiques : service public (France Travail, Mégalis Bretagne, PRMA Réunion), ESN parisiennes et éditeurs. Du cadrage au déploiement — architecture, API, performance, CI/CD et maintenance.
+I work on critical business platforms: public sector (France Travail, Mégalis Bretagne, PRMA Réunion), Paris-based consultancies and software vendors. From scoping to deployment — architecture, APIs, performance, CI/CD and maintenance.
 
-Formateur Concepteur Développeur d'Applications (RNCP niveau 6) depuis 2020.
+Application Developer trainer (RNCP level 6) since 2020.
 
-## Projets
+## Projects
 
-- **[Coiff.cloud](https://coiff.cloud)** — SaaS multi-tenant de réservation pour salons de coiffure. Symfony 8, FrankenPHP, PostgreSQL.
-- **[PikScan](https://pikscan.coding974.com)** — SaaS d'audit et d'optimisation d'images pour sites web.
-- **CertiPrep** — Plateforme de préparation aux certifications professionnelles. Symfony 7.3.
-- **[Contribution PrestaShop](https://github.com/PrestaShop/PrestaShop/pull/40625)** — Support ImageMagick et AVIF dans le cœur de PrestaShop.
+- **[Coiff.cloud](https://coiff.cloud)** — Multi-tenant SaaS for hair salon booking. Symfony 8, FrankenPHP, PostgreSQL.
+- **[PikScan](https://pikscan.coding974.com)** — SaaS for website image auditing and optimization.
+- **CertiPrep** — Platform for professional certification prep. Symfony 7.3.
+- **[PrestaShop contribution](https://github.com/PrestaShop/PrestaShop/pull/40625)** — ImageMagick and AVIF support in PrestaShop core.
 
-## Quelques missions
+## Selected work
 
-- **Mégalis Bretagne** — plateforme régionale de covoiturage OuestGo, migration Symfony 4 vers 6.
-- **PRMA Réunion** — refonte complète du système d'information et du site public.
-- **Mode Première** — migration PrestaShop 1.7 vers 9 d'une boutique en production.
-- **Tekteo (Paris)** — maintenance et évolution d'applications Symfony critiques.
-- **France Travail** — migration d'un système critique de PHP 5.6 vers Symfony 4.
+- **Mégalis Bretagne** — OuestGo regional carpooling platform, Symfony 4 → 6 migration.
+- **PRMA Réunion** — full rebuild of the information system and public website.
+- **Mode Première** — PrestaShop 1.7 → 9 migration of a live store.
+- **Tekteo (Paris)** — maintenance and evolution of critical Symfony applications.
+- **France Travail** — migration of a critical system from PHP 5.6 to Symfony 4.
 
 ## Stack
 
